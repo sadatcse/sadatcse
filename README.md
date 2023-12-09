@@ -1,11 +1,10 @@
 [![Header](https://github.com/sadatcse/sadatcse/blob/main/Banner/Banner.png?raw=true 'Inspiration Quates')](https://github.com/sadatcse)
 ## 👨🏽‍💻 About Me
 <h3>Hi, I'm Sadat Khan , A Web Developer passionate about crafting digital experiences that are both functional and visually appealing. With a foundation in HTML, CSS, and CSS frameworks, my journey into the world of web development has been an exciting exploration of creating seamless user interfaces. My proficiency extends to JavaScript, Node.js, React, and React frameworks, allowing me to build dynamic and responsive web applications.</h3>
+
 ## 🚀 In my toolbox:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,figma,bootstrap,tailwind,javascript,git,github,react,nextjs,nodejs,express,mongodb,firebase,vscode,&theme=light)](https://skillicons.dev)
-
-<div  style="margin-top: 50px; margin-bottom: 0px;" ></div>
+[![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,figma,bootstrap,tailwind,javascript,git,react,nextjs,nodejs,express,mongodb,firebase,vscode,&theme=light)](https://skillicons.dev)
 
 ## 📈 Current Stats
 
