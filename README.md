@@ -35,11 +35,7 @@
   - Payment Gateway: Stripe 
 
  ## Links
-[live link](https://sadatfast.web.app/)
-
-[client repo](https://github.com/sadatcse/Parcel-Management-System-Client-side)
-
-[server repo](https://github.com/sadatcse/Parcel-Management-Website-Server-Side-)
+[live link](https://sadatfast.web.app/) [client repo](https://github.com/sadatcse/Parcel-Management-System-Client-side) [server repo](https://github.com/sadatcse/Parcel-Management-Website-Server-Side-)
 
 
 ## Restrurant Buffet Website 
@@ -52,11 +48,7 @@
   
 
  ## Links
-[live link](https://myliverestrurant.web.app/)
-
-[client repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-Client-side-)
-
-[server repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-server-side-)
+[live link](https://myliverestrurant.web.app/) [client repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-Client-side-) [server repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-server-side-)
 
 
 ## Brand Shop 
@@ -70,11 +62,7 @@
 
  ## Links
 
-[live link](https://some-code-error-but99ok.surge.sh/)
-
-[client repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Client-side-)
-
-[server repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Server-side)
+[live link](https://some-code-error-but99ok.surge.sh/) [client repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Client-side-) [server repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Server-side)
 
 ## 📊 GitHub Stats
 
