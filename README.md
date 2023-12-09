@@ -2,6 +2,10 @@
 ## 👨🏽‍💻 About Me
 <h3>Hi, I'm Sadat Khan , A Web Developer passionate about crafting digital experiences that are both functional and visually appealing. With a foundation in HTML, CSS, and CSS frameworks, my journey into the world of web development has been an exciting exploration of creating seamless user interfaces. My proficiency extends to JavaScript, Node.js, React, and React frameworks, allowing me to build dynamic and responsive web applications.</h3>
 
+- 🌐 **Let's Connect:** Excited about building the future of the web together! Feel free to explore my repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/md-sadat-khan-213a10269/) or **sadatcse@gmail.com**.
+
+✨ **Let's Code:** Happy coding! 🚀
+
 ## 🚀 In my toolbox:
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwindcss,figma,bootstrap,tailwind,javascript,git,react,nextjs,nodejs,express,mongodb,firebase,vscode,&theme=light)](https://skillicons.dev)
