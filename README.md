@@ -22,6 +22,60 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=sadatcse&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85" />
 </p>
 
+## 📂 Projects 
+
+
+## Parcel Management website 
+- Description: Streamline parcel logistics effortlessly with our intuitive web application, offering three distinct roles: user, delivery personnel, and admin. Seamlessly manage registrations, bookings, and deliveries through user-friendly interfaces. From user registration to parcel booking, our platform ensures a smooth experience for all. Experience convenience at its best with a visually appealing and user-centric home page, making parcel management a breeze.
+- Technologies Used:
+  - FrontEnd: React, DaisyUI, Swiper, Tailwind
+  - Backend: Nodejs, Expressjs
+  - DataBase: Mongodb
+  - Authentication: Firebase, JWT
+  - Payment Gateway: Stripe 
+
+ ## Links
+[live link](https://sadatfast.web.app/)
+
+[client repo](https://github.com/sadatcse/Parcel-Management-System-Client-side)
+
+[server repo](https://github.com/sadatcse/Parcel-Management-Website-Server-Side-)
+
+
+## Restrurant Buffet Website 
+- Description: The Yum Yum Tree Buffet & Restaurant Website offers a delightful experience with a welcoming homepage, comprehensive menu, and seamless user authentication. Enjoy easy access to menu updates, additions, and removals for an enhanced dining journey.
+- Technologies Used:
+  - FrontEnd: React, DaisyUI, Tailwind
+  - Backend: Nodejs, Expressjs
+  - DataBase: Mongodb
+  - Authentication: Firebase
+  
+
+ ## Links
+[live link](https://myliverestrurant.web.app/)
+
+[client repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-Client-side-)
+
+[server repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-server-side-)
+
+
+## Brand Shop 
+- Description: Hydrabad Technology offers a seamless user experience with individualized cart data, secure registration/login, informative error alerts, and exclusive access to protected content. With a unique, customizable service design powered by MongoDB, dynamic animations, and automatic copyright updates, our site prioritizes user convenience and innovation.
+- Technologies Used:
+  - FrontEnd: React, DaisyUI, Tailwind
+  - Backend: Nodejs, Expressjs
+  - DataBase: Mongodb
+  - Authentication: Firebase
+  
+
+ ## Links
+
+[live link](https://some-code-error-but99ok.surge.sh/)
+
+[client repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Client-side-)
+
+[server repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Server-side)
+
 ## 📊 GitHub Stats
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sadatcse&theme=neon&hide_border=true&background=45%2C044AAE%2CD24B85)](https://git.io/streak-stats) -->
