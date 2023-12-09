@@ -1,5 +1,10 @@
 [![Header](https://github.com/sadatcse/sadatcse/blob/main/Banner/Banner.png?raw=true 'Inspiration Quates')](https://github.com/sadatcse)
 
+<h1>Hi, I'm Sadat Khan</h1>
+<p><strong>A Web Developer passionate about crafting digital experiences that are both functional and visually appealing.</strong></p>
+
+<p>With a foundation in HTML, CSS, and CSS frameworks, my journey into the world of web development has been an exciting exploration of creating seamless user interfaces. My proficiency extends to JavaScript, Node.js, React, and React frameworks, allowing me to build dynamic and responsive web applications.</p>
+
 ## 📈 Current Stats
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=sadatcse&label=Profile%20views&color=0e75b6&style=flat" alt="sadatcse" /> </p>
