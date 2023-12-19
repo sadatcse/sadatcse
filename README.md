@@ -62,7 +62,7 @@
 
  ## Links
 
-[live link](https://some-code-error-but99ok.surge.sh/) [client repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Client-side-) [server repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Server-side)
+[live link](https://assignment-10-sadat.web.app/) [client repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Client-side-) [server repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Server-side)
 
 ## 📊 GitHub Stats
 
