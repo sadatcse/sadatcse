@@ -25,17 +25,16 @@
 ## 📂 Projects 
 
 
-## Parcel Management website 
-- Description: Streamline parcel logistics effortlessly with our intuitive web application, offering three distinct roles: user, delivery personnel, and admin. Seamlessly manage registrations, bookings, and deliveries through user-friendly interfaces. From user registration to parcel booking, our platform ensures a smooth experience for all. Experience convenience at its best with a visually appealing and user-centric home page, making parcel management a breeze.
+## Professional Gym website 
+- Description: MultiGym Premium is a fully dynamic and responsive gym website designed to deliver a modern fitness experience. It features an engaging homepage with a hero video slider, real-time notices, dynamic team member profiles, customer testimonials, and the latest blog posts — all easily manageable via an intuitive admin dashboard. The entire system is live and fully functional, built to be both performance-optimized and user-friendly.
 - Technologies Used:
   - FrontEnd: React, DaisyUI, Swiper, Tailwind
-  - Backend: Nodejs, Expressjs
+  - Backend: Nodejs, Expressjs ,Moongose 
   - DataBase: Mongodb
   - Authentication: Firebase, JWT
-  - Payment Gateway: Stripe 
 
  ## Links
-[live link](https://sadatfast.web.app/) [client repo](https://github.com/sadatcse/Parcel-Management-System-Client-side) [server repo](https://github.com/sadatcse/Parcel-Management-Website-Server-Side-)
+[live link](https://multigympremium.com/) [client repo](https://github.com/sadatcse/GYM-Website) [server repo](https://github.com/sadatcse/multigym-premium-server)
 
 
 ## Restrurant Buffet Website 
