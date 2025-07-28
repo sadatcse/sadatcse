@@ -55,8 +55,6 @@
 
 - Description: Multi Sports is a comprehensive and intuitive web application designed to streamline product, category, and staff management. It provides administrators with a centralized dashboard to efficiently oversee all aspects of the inventory and user base. With a clean, modern user interface, the application ensures a seamless user experience, allowing for quick access to critical business operations.
 
-<p align="center"> <img width="100%" src="https://via.placeholder.com/1000x500.png?text=Dashboard+View" alt="Dashboard Screenshot" /> <br/><br/> <img width="100%" src="https://via.placeholder.com/1000x500.png?text=Product+Management" alt="Product Management Screenshot" /> <br/><br/> <img width="100%" src="https://via.placeholder.com/1000x500.png?text=User+Login" alt="Login Screenshot" /> </p>
-
 - Technologies Used:
 
   - FrontEnd: React, DaisyUI, Tailwind
