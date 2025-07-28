@@ -65,9 +65,9 @@
 
   - Authentication: From Backend
 
- ## Links
+User name:admin@sadatkhan.com Password:Sadat100
 
-
+ ## Links
 
 [live link](https://multisports-script-front.vercel.app/) [client repo](https://github.com/sadatcse/multisports_script_front) [server repo](https://github.com/sadatcse/multisports_script_backend)
 
