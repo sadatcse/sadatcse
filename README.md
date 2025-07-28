@@ -51,18 +51,25 @@
 [live link](https://myliverestrurant.web.app/) [client repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-Client-side-) [server repo](https://github.com/sadatcse/Restaurant-Website-Yum-Yum-Tree-Buffet-server-side-)
 
 
-## Brand Shop 
-- Description: Hydrabad Technology offers a seamless user experience with individualized cart data, secure registration/login, informative error alerts, and exclusive access to protected content. With a unique, customizable service design powered by MongoDB, dynamic animations, and automatic copyright updates, our site prioritizes user convenience and innovation.
+##  Sample Inventory & Management System
+
+- Description: Multi Sports is a comprehensive and intuitive web application designed to streamline product, category, and staff management. It provides administrators with a centralized dashboard to efficiently oversee all aspects of the inventory and user base. With a clean, modern user interface, the application ensures a seamless user experience, allowing for quick access to critical business operations.
+
 - Technologies Used:
-  - FrontEnd: React, DaisyUI, Tailwind
-  - Backend: Nodejs, Expressjs
-  - DataBase: Mongodb
-  - Authentication: Firebase
-  
 
- ## Links
+  - FrontEnd: React, DaisyUI, Tailwind
 
-[live link](https://assignment-10-sadat.web.app/) [client repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Client-side-) [server repo](https://github.com/sadatcse/Hydrabad-Technology-Brand-Shop-Server-side)
+  - Backend: Nodejs, Expressjs,mongoose
+
+  - DataBase: Mongodb
+
+  - Authentication: From Backend
+
+ ## Links
+
+
+
+[live link](https://multisports-script-front.vercel.app/) [client repo](https://github.com/sadatcse/multisports_script_front) [server repo](https://github.com/sadatcse/multisports_script_backend)
 
 ## 📊 GitHub Stats
 
